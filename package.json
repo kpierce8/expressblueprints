@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/kpierce8/expressblueprints",
   "dependencies": {
-    "express": "^4.13.3"
+    "bcrypt": "^0.8.5",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.1.6",
+    "passport-local": "^1.0.0",
+    "validator": "^4.0.5"
   }
 }
